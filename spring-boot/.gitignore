@@ -1,0 +1,11 @@
+# Generated automatically
+target/
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# Intellij IDEA project files
+.idea/
+*.iml
